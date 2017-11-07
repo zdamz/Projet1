@@ -1,0 +1,63 @@
+html{
+font-family:'Alegreya' sans-serif;
+text-align:'justify';
+margin-right:300px; /* ça marche pas! */
+}
+#citation{
+position: absolute;
+left:300px;
+top:175px;
+background:#90EE90;
+}
+h1{
+text-transform: uppercase;
+color:#FF0000
+}
+
+#photo{
+position: absolute;
+top:20px
+}
+#nomettitre{
+position: absolute;
+left:300px;
+font-size:50px;
+}
+#info{
+position: absolute;
+top:250px;
+}
+#rêve{
+position:absolute;
+left:300px;
+top:250px;
+}
+#formation{
+position:absolute;
+left:300px;
+top:375px;
+}
+#expérienceprofessionnelle{
+position:absolute;
+left:300px;
+top:500px;
+}
+#corps{
+font-size:10px;
+}
+#compétences{
+position:absolute;
+left:300px;
+top:1175px;
+}
+#centres{
+position:absolute;
+left:300px;
+top:1330px;
+}
+a{
+text-decoration:none;
+color:red;
+}
+p{
+
